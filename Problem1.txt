@@ -1,0 +1,16 @@
+You have enter 217192
+The Sum of all the digit of 217192 is 22.
+You want to try a different number? (Y/N): Y
+You had enter a negtive Number. please enter a postive number. 
+You have enter 815
+The Sum of all the digit of 815 is 14.
+You want to try a different number? (Y/N): h
+invaild anwser. Please try Again
+You want to try a different number? (Y/N): l
+invaild anwser. Please try Again
+You want to try a different number? (Y/N): Y
+You had enter Number Zero. please enter a postive number.
+You have enter 71
+The Sum of all the digit of 71 is 8.
+You want to try a different number? (Y/N): n
+Thank for using the progarm and Problem1.txt will hold all the activity
